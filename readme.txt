@@ -1,0 +1,1 @@
+This is an application to generate a github impact graph for all our development team across all projects
